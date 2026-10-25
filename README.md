@@ -178,7 +178,7 @@ Follow these steps to initialize and publish this repository to your personal Gi
 4. Link your local repository and push:
    ```powershell
    git branch -M main
-   git remote add origin https://github.com/<YOUR_GITHUB_USERNAME>/Datheon_Python_Programming_Internship.git
+   git remote add origin https://github.com/Samhitha0714/Datheon_Python_Programming_Internship.git
    git push -u origin main
    ```
 
@@ -186,6 +186,6 @@ Follow these steps to initialize and publish this repository to your personal Gi
 
 ## Author Information
 
-- **Student Name**: [Sunneetha / Your Name]
+- **Student Name**: Samhitha (Samhitha0714)
 - **Internship**: Datheon Python Programming Internship
 - **Environment**: Python 3.12 (Windows)
